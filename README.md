@@ -42,7 +42,7 @@ A modern, interactive web application that helps users plan their daily commute 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/smart-commute-planner.git
+git clone https://github.com/rdsharma10/smart-commute-planner.git
 cd smart-commute-planner
 
 
